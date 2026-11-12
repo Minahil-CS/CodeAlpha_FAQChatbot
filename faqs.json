@@ -1,0 +1,148 @@
+[
+ {
+  "q": [
+   "What is your return policy?",
+   "Can I return an item?",
+   "How do I return a product?",
+   "I want my money back",
+   "refund policy",
+   "how many days to return"
+  ],
+  "a": "You can return any item within 14 days of delivery if it is unused and in original packaging. Refunds are processed in 5-7 working days."
+ },
+ {
+  "q": [
+   "How long does shipping take?",
+   "How long is delivery?",
+   "When will my order arrive?",
+   "delivery time",
+   "how many days for delivery",
+   "shipping duration"
+  ],
+  "a": "Standard shipping takes 3-5 business days. Express shipping takes 1-2 business days."
+ },
+ {
+  "q": [
+   "How can I track my order?",
+   "Where is my order?",
+   "track my package",
+   "order status",
+   "tracking number",
+   "check delivery status",
+   "where is my parcel",
+   "where is my package",
+   "parcel not received yet"
+  ],
+  "a": "Use the tracking link sent to your email, or enter your order ID on the Track Order page."
+ },
+ {
+  "q": [
+   "What payment methods do you accept?",
+   "How can I pay?",
+   "how much is the payment",
+   "Do you accept JazzCash or Easypaisa?",
+   "cash on delivery available?",
+   "can I pay by card"
+  ],
+  "a": "We accept credit/debit cards, JazzCash, Easypaisa, and Cash on Delivery."
+ },
+ {
+  "q": [
+   "How do I cancel my order?",
+   "I want to cancel my order",
+   "cancel order",
+   "stop my order",
+   "undo my purchase"
+  ],
+  "a": "Orders can be cancelled before they are shipped. Go to My Orders and click Cancel."
+ },
+ {
+  "q": [
+   "Do you offer international shipping?",
+   "Do you ship abroad?",
+   "can you deliver to another country",
+   "overseas delivery",
+   "shipping outside Pakistan"
+  ],
+  "a": "Yes, we ship to most countries. Shipping charges depend on the destination."
+ },
+ {
+  "q": [
+   "How can I contact customer support?",
+   "contact you",
+   "customer care number",
+   "talk to a human",
+   "support email",
+   "helpline"
+  ],
+  "a": "Email support@example.com or call 0300-0000000, Mon-Sat, 9am to 6pm."
+ },
+ {
+  "q": [
+   "How do I reset my password?",
+   "I forgot my password",
+   "can't log in",
+   "change password",
+   "password recovery"
+  ],
+  "a": "Click 'Forgot Password' on the login page and follow the link sent to your email."
+ },
+ {
+  "q": [
+   "Is my personal data safe?",
+   "Is my information secure?",
+   "privacy policy",
+   "do you share my data",
+   "is it safe to buy here"
+  ],
+  "a": "Yes. We use encryption and never share your personal data with third parties."
+ },
+ {
+  "q": [
+   "Do you offer discounts?",
+   "any coupon code?",
+   "promo code",
+   "sale offers",
+   "how to get discount",
+   "cheaper price"
+  ],
+  "a": "Yes, subscribe to our newsletter to get a 10% welcome discount and seasonal offers."
+ },
+ {
+  "q": [
+   "How do I change my delivery address?",
+   "wrong address",
+   "update shipping address",
+   "deliver to different address"
+  ],
+  "a": "You can change the address from My Orders before the order is shipped. After that, contact support."
+ },
+ {
+  "q": [
+   "My product is damaged",
+   "I received a wrong item",
+   "defective product",
+   "item broken",
+   "product not working"
+  ],
+  "a": "We are sorry about that! Contact support within 48 hours with a photo and we will replace it for free."
+ },
+ {
+  "q": [
+   "What are your working hours?",
+   "when are you open",
+   "opening time",
+   "business hours"
+  ],
+  "a": "Our support team is available Monday to Saturday, 9am to 6pm."
+ },
+ {
+  "q": [
+   "are you a bot",
+   "your capabilities",
+   "what is your purpose",
+   "how can you help me"
+  ],
+  "a": "I am an FAQ chatbot. I can answer questions about orders, shipping, returns, payments and support."
+ }
+]
